@@ -16,6 +16,7 @@ This repository contains:
 - **`uncertainty_modeling_monte_carlo_and_distribution_fitting.ipynb`**: The main notebook with detailed code and explanations.
 - **`data/`**: (Optional) Folder to store any datasets used/generated.
 - **`output/`**: (Optional) Folder to save generated figures or tables.
+- **`Advertising.csv`**: The dataset which has been used. You can use your own if you'd like
 
 ## Key Methods
 1. **Monte Carlo Simulation**:
