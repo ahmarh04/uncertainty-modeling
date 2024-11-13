@@ -66,7 +66,7 @@ pip install numpy pandas scipy matplotlib
 Clone the repository and navigate into the directory:
 
 ```bash
-git clone https://github.com/your-username/uncertainty-modeling.git
+git clone https://github.com/ahmarh04/uncertainty-modeling.git
 cd uncertainty-modeling
 ```
 To open and explore the notebook, run:
